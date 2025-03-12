@@ -50,7 +50,7 @@ Bem-vindo ao **Python Data Science**, um repositório estruturado para aprender 
 
 2️⃣ Instale as dependências (caso necessário):  
 ```bash
-pip install -r bibliotecas_python.txt
+pip install -r requirements.txt
 ```
 
 3️⃣ Explore os notebooks e aprenda no seu ritmo!  

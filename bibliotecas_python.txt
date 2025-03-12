@@ -1,7 +1,0 @@
-# O arquivo bibliotecas_python.txt contém a lista de bibliotecas necessárias para o projeto.
-# Ao incluir todas as dependências do projeto neste arquivo, garantimos que qualquer pessoa
-# possa facilmente instalar as bibliotecas corretas com o comando 'pip install -r bibliotecas_python.txt'.
-
-
-pip install jupyter notebook
-
