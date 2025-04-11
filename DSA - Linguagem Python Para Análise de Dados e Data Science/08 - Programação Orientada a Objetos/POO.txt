@@ -1,0 +1,13 @@
+⚙️ Anatomia detalhada de uma Classe
+
+Parte	O que faz
+
+class	Define a estrutura, o "molde" para os objetos
+
+__init__()	Construtor. Executado automaticamente ao criar um novo objeto
+
+self	Referência ao próprio objeto criado, permite acessar os atributos/métodos
+
+Atributos	Variáveis do objeto (self.nome, self.idade, etc)
+
+Métodos	Funções internas do objeto (def is_adulto(self):)
