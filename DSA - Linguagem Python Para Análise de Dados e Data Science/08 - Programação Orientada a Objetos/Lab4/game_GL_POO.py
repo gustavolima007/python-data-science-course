@@ -35,6 +35,8 @@ class ExibidorTerminal(Exibidor):
                ║             \|/
                ║              |
                ║             / 
+             ══╩═══       FORCA 5
+            """,
             r"""
                ╔══════════════╗
                ║              ║
